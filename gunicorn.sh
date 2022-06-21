@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source env/bin/activate
+source venv/bin/activate
 
 python3 manage.py makemigrations
 
